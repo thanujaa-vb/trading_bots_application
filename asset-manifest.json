@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/trading_bots_application/static/css/main.5d9e9111.chunk.css",
+    "main.js": "/trading_bots_application/static/js/main.bf717541.chunk.js",
+    "main.js.map": "/trading_bots_application/static/js/main.bf717541.chunk.js.map",
+    "runtime-main.js": "/trading_bots_application/static/js/runtime-main.b1eff913.js",
+    "runtime-main.js.map": "/trading_bots_application/static/js/runtime-main.b1eff913.js.map",
+    "static/js/2.06a4e8e5.chunk.js": "/trading_bots_application/static/js/2.06a4e8e5.chunk.js",
+    "static/js/2.06a4e8e5.chunk.js.map": "/trading_bots_application/static/js/2.06a4e8e5.chunk.js.map",
+    "static/js/3.b01f4c57.chunk.js": "/trading_bots_application/static/js/3.b01f4c57.chunk.js",
+    "static/js/3.b01f4c57.chunk.js.map": "/trading_bots_application/static/js/3.b01f4c57.chunk.js.map",
+    "index.html": "/trading_bots_application/index.html",
+    "static/css/main.5d9e9111.chunk.css.map": "/trading_bots_application/static/css/main.5d9e9111.chunk.css.map",
+    "static/js/2.06a4e8e5.chunk.js.LICENSE.txt": "/trading_bots_application/static/js/2.06a4e8e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1eff913.js",
+    "static/js/2.06a4e8e5.chunk.js",
+    "static/css/main.5d9e9111.chunk.css",
+    "static/js/main.bf717541.chunk.js"
+  ]
+}
